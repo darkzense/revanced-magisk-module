@@ -1,8 +1,8 @@
 [YouTube]
 app-name = "Youtube"
 build-mode = "apk"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-version = "18.45.43"
+version = "auto"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 arch = "universal"
 included-patches = "'Theme' 'Navigation buttons' 'Premium heading' 'Hide info cards' 'Hide floating microphone button' 'Hide crowdfunding box' 'Hide breaking news shelf' 'Hide endscreen cards' 'Remove viewer discretion dialog' 'Swipe controls' 'Copy video url' 'Remember video quality' 'Restore old video quality menu' 'Video ads' 'Hide ads' 'Minimized playback' 'Open links externally' 'Bypass URL redirects' 'Remove tracking query parameter'"
 exclusive-patches = true
